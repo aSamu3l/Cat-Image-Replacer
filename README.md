@@ -1,4 +1,4 @@
-# Cat-Image-Replacer ![Icon](icons/icon48.png)
+# Cat-Image-Replacer ![Icon](https://github.com/aSamu3l/Cat-Image-Replacer/blob/main/Cat_Replacer/icons/icon16.png)
 
 The project is a google extension that replaces all the images you have on your screen at that moment with random cat images
 
